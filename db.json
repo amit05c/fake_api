@@ -122,7 +122,19 @@
             "images":["https://www.uboric.com/wp-content/uploads/2022/08/617adqEx3rL._UL1500_-670x670.jpg"
         ]
 
+        },
+        {
+            "id":"8",
+            "title":"FINACHI Ultra Soft Inner Boxer Black",
+            "category":"Men",
+            "brand":"",
+            "Price":"800",
+            "size":["S","M", "L","XL"],
+            "images":["https://www.uboric.com/wp-content/uploads/2022/08/617adqEx3rL._UL1500_-670x670.jpg"
+        ]
+
         }
+        
 
     ]
 }
