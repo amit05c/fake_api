@@ -175,5 +175,17 @@
         }
         
 
+    ],
+    "cart":[
+           {
+            "id":"2",
+            "title":"“Classic” Red Convertible Bra Panty Set With Straps",
+            "category":"clothings",
+            "brand":"DANIEL CHRISTIAN",
+            "Price":"500",
+            "size":[30,32,34,36],
+            "images":"https://www.uboric.com/wp-content/uploads/2022/08/set.jpg"
+
+        }
     ]
 }
